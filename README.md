@@ -5,3 +5,5 @@ Consumir gigabytes de arquivo direto no frontend sem travar o backend, sem trava
 
 - converter streams do Node.js para as Webstreams
 - processar massivamente dados sob demanda
+
+https://www.youtube.com/watch?v=-IpRYbL4yMk
